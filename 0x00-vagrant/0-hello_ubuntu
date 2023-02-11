@@ -1,1 +1,3 @@
-print the kernel name
+uname 
+print the kenel name 
+
